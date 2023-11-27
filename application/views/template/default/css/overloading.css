@@ -1,0 +1,78 @@
+.main-signup-header h2 {
+    color:#c6a76e !important;
+}
+
+.bg-primary {
+    background-color: #c6a76e !important;
+}
+
+.btn-primary {
+    background-color:#c6a76e !important;
+    border-color:#c6a76e !important;
+}
+
+.btn-primary:hover {
+    background-color:#dec392 !important;
+    border-color:#dec392 !important;
+}
+    
+
+.bxl-instagram.tx-prime, .bxl-linkedin.tx-prime, .bxl-twitter.tx-prime, .bxl-facebook.tx-prime {
+    color:#c6a76e !important;
+}
+
+
+.bxl-instagram.tx-prime, .bxl-linkedin.tx-prime, .bxl-twitter.tx-prime, .bxl-facebook.tx-prime:hover {
+    color:#dec392 !important;
+}
+
+
+.zero-opacity {
+    background-color: rgba(white, white, white, 0) !important;
+}
+
+#global-loader {
+    background-color: rgba(white, white, white, 0) !important;
+}
+
+
+.breadcrumb-item.active{
+    color:#c6a76e !important;
+}
+
+
+.input-group-text {
+    background-color: #c5a76f !important;
+}
+
+.hide-control {
+    display: none;
+}
+
+.dataTables_filter {
+    display: none;
+}
+
+.dataTables_length {
+    display: none;
+}
+
+.hide {
+    display: none !important;
+}
+
+.error {
+    color: red;
+}
+
+.is_main_image_container {
+    position: absolute;
+    left: 25px;
+    top: 15px;
+    padding: 5px;
+    height: 25px;
+    background-color: white;
+    border-radius: 7px;
+    width: 25px;
+    text-align: center;
+}
